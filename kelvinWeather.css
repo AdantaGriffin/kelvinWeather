@@ -1,0 +1,21 @@
+.header{
+    text-align: center;
+    height: 200px;
+    align-content: center;
+    background-image: url('./images/clear-sky.jpg');
+    background-size: cover;
+    h1{
+        color: white;
+        font-size: 5em;
+    }
+}
+.figures{
+    margin: auto;
+    width: 1000px;
+    figcaption{
+        text-align: center;
+    }
+}
+blockquote{
+    font-size: 2em;
+}
