@@ -9,6 +9,10 @@
         font-size: 5em;
     }
 }
+.inputs{
+    border: 1px solid red;
+    text-align: center;
+}
 .figures{
     margin: auto;
     width: 1000px;
@@ -18,4 +22,12 @@
 }
 blockquote{
     font-size: 2em;
+}
+.response{
+    border: 1px solid red;
+}
+.answer{
+    text-align: center;
+    align-content: center;
+    height: 50px;
 }
